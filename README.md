@@ -1,2 +1,2 @@
 # hello-world
-nihao
+Learn Git and GitHub without any code!
